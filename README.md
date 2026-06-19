@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tanushree Kaushik 👋
 
-<!--
-**tanushree3009/tanushree3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering at VIT Vellore
 
-Here are some ideas to get you started:
+🔬 Research Intern at IISc Bangalore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in:
+- Machine Learning
+- Data Analytics
+- Data Science
+- AI 
+
+## Technical Skills
+
+Python | Java | SQL
+
+TensorFlow | Scikit-Learn | XGBoost
+
+Pandas | NumPy | Matplotlib
+
+Google Cloud | Jupyter Notebook | Streamlit
+
+## Featured Projects
+
+- Chronic Kidney Disease Detection using XGBoost
+- Oral Cancer Classification using InceptionV4
+- Climate Disease Outbreak Prediction System
+- Sales Forecasting & Business Insights Platform
+- Customizable AI Stock Predictor
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/tanushree-kaushik-79106b284/
+
+Email: tanushreekaushik.official@gmail.com
