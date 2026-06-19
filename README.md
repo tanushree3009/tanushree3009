@@ -1,10 +1,10 @@
 # Hi, I'm Tanushree Kaushik 👋
 
-🎓 B.Tech Computer Science and Engineering at VIT Vellore
+B.Tech Computer Science and Engineering at VIT Vellore
 
-🔬 Research Intern at IISc Bangalore
+Research Intern at IISc Bangalore
 
-💡 Interested in:
+Interested in:
 - Machine Learning
 - Data Analytics
 - Data Science
@@ -26,7 +26,7 @@ Google Cloud | Jupyter Notebook | Streamlit
 - Oral Cancer Classification using InceptionV4
 - Climate Disease Outbreak Prediction System
 - Sales Forecasting & Business Insights Platform
-- Customizable AI Stock Predictor
+- Customizable AI Predictor for Stock Price Movement
 
 ## Connect With Me
 
