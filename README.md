@@ -16,9 +16,7 @@ Python | Java | SQL
 
 TensorFlow | Scikit-Learn | XGBoost
 
-Pandas | NumPy | Matplotlib
-
-Google Cloud | Jupyter Notebook | Streamlit
+Pandas | NumPy | Matplotlib | Jupyter Notebook | Streamlit
 
 ## Featured Projects
 
