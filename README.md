@@ -24,7 +24,7 @@ Pandas | NumPy | Matplotlib | Jupyter Notebook | Streamlit
 - Oral Cancer Classification using InceptionV4
 - Climate Disease Outbreak Prediction System
 - Sales Forecasting & Business Insights Platform
-- Customizable AI Predictor for Stock Price Movement
+- Field Operations Debrief Platform
 
 ## Connect With Me
 
